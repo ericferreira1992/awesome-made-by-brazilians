@@ -590,13 +590,13 @@ Alan de Freitas](https://github.com/alandefreitas)
 
 ### Typescript
 
-- **[vscode-project-manager](https://github.com/alefragnani/vscode-project-manager)** by [alefragnani](https://github.com/alefragnani)  
-  Project Manager Extension for Visual Studio Code  
-  ![Stars](https://img.shields.io/github/stars/alefragnani/vscode-project-manager?style=flat-square)
-
 - **[Nimble framework](https://github.com/ericferreira1992/nimble)** by [ericferreira1992](https://github.com/ericferreira1992)  
   It is targets webpages development, but it can also be used to create web application with ease.
   ![Stars](https://img.shields.io/github/stars/ericferreira1992/nimble?style=flat-square)
+
+- **[vscode-project-manager](https://github.com/alefragnani/vscode-project-manager)** by [alefragnani](https://github.com/alefragnani)  
+  Project Manager Extension for Visual Studio Code  
+  ![Stars](https://img.shields.io/github/stars/alefragnani/vscode-project-manager?style=flat-square)
 
 <a name="vim"></a>
 
